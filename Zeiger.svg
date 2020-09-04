@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="99px" viewBox="0 0 92 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Path</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Abmahncheck" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Abmahncheck-Ergebnis" transform="translate(-930.000000, -364.000000)" fill="#4A4A4A" fill-rule="nonzero" stroke="#000000" stroke-width="2">
+            <g id="graph" transform="translate(834.000000, 298.000000)">
+                <path d="M184.403444,68.8976807 C182.017718,66.6730111 178.289244,66.3763225 175.455603,68.1559593 C152.040784,83.1387312 134.293247,94.4133907 110.877931,109.247818 C106.553398,112.06636 102.974063,115.774966 100.736481,120.076456 C94.3235052,131.49946 96.2623118,145.88836 105.807703,155.234049 C115.650378,165.172622 131.012189,166.805398 142.943307,159.388184 C147.566615,156.272459 151.444229,151.97097 153.829955,146.778426 C165.611437,121.708243 174.560272,102.72067 186.342251,77.6504875 C187.684999,74.6831075 186.939304,71.1228449 184.403444,68.8976807 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
